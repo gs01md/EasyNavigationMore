@@ -49,6 +49,7 @@
 		ADFCE60920074CA2000CD22C /* EasyNavigationButton.m in Sources */ = {isa = PBXBuildFile; fileRef = ADFCE60820074CA2000CD22C /* EasyNavigationButton.m */; };
 		ADFE65901FA729D4002286DF /* EasyNavigationView+LeftButton.m in Sources */ = {isa = PBXBuildFile; fileRef = ADFE658F1FA729D4002286DF /* EasyNavigationView+LeftButton.m */; };
 		ADFE65931FA72B46002286DF /* EasyNavigationView+RightButton.m in Sources */ = {isa = PBXBuildFile; fileRef = ADFE65921FA72B46002286DF /* EasyNavigationView+RightButton.m */; };
+		BF8ACCB628DC562B000CE498 /* EasyNavigation.podspec in Resources */ = {isa = PBXBuildFile; fileRef = BF8ACCB528DC562B000CE498 /* EasyNavigation.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -149,6 +150,7 @@
 		ADFE658F1FA729D4002286DF /* EasyNavigationView+LeftButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "EasyNavigationView+LeftButton.m"; sourceTree = "<group>"; };
 		ADFE65911FA72B46002286DF /* EasyNavigationView+RightButton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EasyNavigationView+RightButton.h"; sourceTree = "<group>"; };
 		ADFE65921FA72B46002286DF /* EasyNavigationView+RightButton.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "EasyNavigationView+RightButton.m"; sourceTree = "<group>"; };
+		BF8ACCB528DC562B000CE498 /* EasyNavigation.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EasyNavigation.podspec; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -263,6 +265,7 @@
 		6876E74D1F5858CE00DEDFE0 = {
 			isa = PBXGroup;
 			children = (
+				BF8ACCB528DC562B000CE498 /* EasyNavigation.podspec */,
 				68A5A5301F7E8BBF00B62899 /* EasyNavigation */,
 				6876E7581F5858CE00DEDFE0 /* EasyNavigationDemo */,
 				6876E7721F5858CF00DEDFE0 /* EasyNavigationDemoTests */,
@@ -456,6 +459,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -480,6 +484,7 @@
 				68A5A5441F7E8BBF00B62899 /* EasyNavButton.bundle in Resources */,
 				682F9EC11F6C22A800283DC6 /* NavSystemSlidingViewController.xib in Resources */,
 				AD57779B1F710CB600100E64 /* NavStatusBarViewController.xib in Resources */,
+				BF8ACCB628DC562B000CE498 /* EasyNavigation.podspec in Resources */,
 				ADC4EB771F6697B500CE7060 /* Assets.xcassets in Resources */,
 				682F9EC61F6C24B600283DC6 /* NavCustomSlidingViewController.xib in Resources */,
 				6876E7641F5858CE00DEDFE0 /* Main.storyboard in Resources */,
