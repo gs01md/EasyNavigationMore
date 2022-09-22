@@ -7,7 +7,7 @@
 //
 
 #import "NavEmptyViewController.h"
-
+#import "EasyNavigation.h"
 @interface NavEmptyViewController ()
 
 @end

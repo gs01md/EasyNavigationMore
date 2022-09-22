@@ -8,7 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-#import "EasyNavigation.h"
+//#import "EasyNavigation.h"
+
 
 #define kWeakSelf(type)__weak typeof(type)weak##type = type;
 

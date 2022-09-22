@@ -7,7 +7,7 @@
 //
 
 #import "NavAlphaChangeViewController.h"
-
+#import "EasyNavigation.h"
 @interface NavAlphaChangeViewController ()
 
 @end

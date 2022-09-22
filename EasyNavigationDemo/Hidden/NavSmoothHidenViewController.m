@@ -7,7 +7,7 @@
 //
 
 #import "NavSmoothHidenViewController.h"
-
+#import "EasyNavigation.h"
 @interface NavSmoothHidenViewController ()
 
 @end

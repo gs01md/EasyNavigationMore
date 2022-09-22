@@ -7,7 +7,7 @@
 //
 
 #import "NavTransparentViewController.h"
-
+#import "EasyNavigation.h"
 @interface NavTransparentViewController ()<UIScrollViewDelegate>
 
 @end

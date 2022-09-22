@@ -7,7 +7,7 @@
 //
 
 #import "NavOperateViewController.h"
-
+#import "EasyNavigation.h"
 @interface NavOperateViewController ()
 
 @property (nonatomic,strong)NSArray *dataArray ;

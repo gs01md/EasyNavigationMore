@@ -7,7 +7,7 @@
 //
 
 #import "NavAnimationHiden_1_ViewController.h"
-
+#import "EasyNavigation.h"
 @interface NavAnimationHiden_1_ViewController ()
 
 @end
